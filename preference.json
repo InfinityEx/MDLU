@@ -1,0 +1,20 @@
+{
+    "Updater":
+    [
+        {
+            "version":"0.1",
+            "":""
+        }
+    ],
+    "Game":
+    [
+        {
+            "currentVersion":null,
+            "previousVersion":null,
+            "path":"F:/MiniDL_v0.4.5_ZHCN",
+            "data":"/MiniDL_Data",
+            "hashlist":"/list.json"
+        }
+    ],
+    "showUpdate":false
+}
