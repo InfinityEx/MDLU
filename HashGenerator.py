@@ -1,4 +1,4 @@
-#!/usr/bin/python
+# !/usr/bin/python
 import hashlib
 import os
 import json
@@ -33,16 +33,47 @@ def getHash():
 
 
 # fileWalk
-def interia():
+def interia(path):
+    list={
+        "data":[]
+    }
+    # list.update({"data":[]})
+    for root,dirs,files in os.walk(path):
+        for file in files:
+            file_patht=os.path.join(root,file)
+            file_pathr=os.path.join(root)
+            file_name=os.path.basename(file)
+            # print(f" {Fore.YELLOW}path:{file_patht} || name:{file_name}{Fore.RESET}")
+            # list.update({file_name:hashlib.md5(open(file_patht,'rb').read()).hexdigest()},{"version":"0.4.5"})
+            # list["data"].append([{file_name:hashlib.md5(open(file_patht,'rb').read()).hexdigest(),"version":"0.4.5"}])
+            litdetial={
+                "filename":file_name,
+                "path":os.path.join(root,file).replace('\\','/').split(path)[1],
+                "md5":hashlib.md5(open(file_patht,'rb').read()).hexdigest(),
+                "version":"0.4.5"
+                }
+            print("os path join: "+os.path.join(root,file))
+            print("path: "+path)
+            print("file_pathr"+file_pathr)
+            print("file_patht"+file_patht)
+            print(litdetial["path"])
+            list["data"].append(litdetial)
+    with open(f"{path}/hash.json",'w',encoding='utf-8') as hf:
+        json.dump(list,hf,indent=2,ensure_ascii=False)
     pass
 
+def welcome():
+    print("="*45)
+    print(f"{Fore.LIGHTGREEN_EX} Hash Generator v0.1\n{Fore.LIGHTMAGENTA_EX} Program for generate hash file of MiniDL{Fore.RESET}")
+    print("="*45)
 
 if __name__ == '__main__':
+    welcome()
     # print(os.path.abspath("HashGenerator.py").split(os.path.basename("HashGenerator.py"))[0])
     # pathWalk()
-    parser = argparse.ArgumentParser(prog='hashGen.exe',usage='%(prog)s [-p] <print_type> [-g] <path> ',description="Hash Generator")
+    parser = argparse.ArgumentParser(prog='hashGen.exe',usage=f'{Fore.LIGHTYELLOW_EX}%(prog)s {Fore.LIGHTRED_EX}[-p] <print_type> {Fore.LIGHTCYAN_EX}[-g] <path>{Fore.LIGHTWHITE_EX} ',description='')
     parser.add_argument('-p',default='',nargs='?',help='Get game path and print as text/json,like "hashGen.exe -p text" or "hashGen.exe -p json"')
-    parser.add_argument('-g',nargs='?',help='Generate hash file from game path[need specified],like "hashGen.exe -g "D:/Games/MiniDL/MiniDL_Data""')
+    parser.add_argument('-g',nargs='?',help=f'Generate hash file from game path[need specified],like "hashGen.exe -g "D:/Games/MiniDL/MiniDL_Data"{Fore.RESET}')
 
     # merge parser
     args = parser.parse_args()
@@ -56,12 +87,12 @@ if __name__ == '__main__':
     # get Hash
     if args.g!=None:
         if os.path.exists(args.g)==True:
-            print(f"{Fore.LIGHTGREEN_EX}path is available\n")
-            parser.print_help()
+            print(f"{Fore.LIGHTGREEN_EX} Info: path is available\n{Fore.RESET}")
+            interia(args.g)
         elif os.path.exists(args.g)==False:
             print(f"\n{Fore.LIGHTRED_EX} Warning: path is unavailable\n{Fore.RESET}")
             parser.print_help()
     
-    if args.p=='' and args.g==None:
+    if args.p not in ('json','text',' ') and args.g==None:
         parser.print_help()
     pass
