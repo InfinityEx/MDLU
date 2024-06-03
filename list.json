@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "filename": "activate",
+      "path": "/activate",
+      "md5": "d53749a3a30167e0bc3188ea691bd238",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "activate.bat",
+      "path": "/activate.bat",
+      "md5": "5e0562aaa043134fcd1aea60c12d6a5f",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "Activate.ps1",
+      "path": "/Activate.ps1",
+      "md5": "a4e2027a04afd3ed2d7a097725bff928",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "deactivate.bat",
+      "path": "/deactivate.bat",
+      "md5": "59fb0093ee71c58a92c8082bfd678032",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "hash.json",
+      "path": "/hash.json",
+      "md5": "ae0f9673cf72ba844f5cca664a9ce54c",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "nuitka-run.bat",
+      "path": "/nuitka-run.bat",
+      "md5": "9cc3da341e61a2a2cff44b2364101941",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "nuitka.bat",
+      "path": "/nuitka.bat",
+      "md5": "6b22b515055ac89efd28964491e73724",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "pip.exe",
+      "path": "/pip.exe",
+      "md5": "2849df212cd89d70d82fc2f2799af633",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "pip3.8.exe",
+      "path": "/pip3.8.exe",
+      "md5": "2849df212cd89d70d82fc2f2799af633",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "pip3.exe",
+      "path": "/pip3.exe",
+      "md5": "2849df212cd89d70d82fc2f2799af633",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "python.exe",
+      "path": "/python.exe",
+      "md5": "af92da1559ba157cd694666f1297185c",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "pythonw.exe",
+      "path": "/pythonw.exe",
+      "md5": "4c1ff49edf0ed05f69a5e91ecd9e0be9",
+      "version": "0.4.5"
+    },
+    {
+      "filename": "test.txt",
+      "path": "/test/test.txt",
+      "md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "version": "0.4.5"
+    }
+  ]
+}
