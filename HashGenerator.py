@@ -1,6 +1,7 @@
 # !/usr/bin/python
 import hashlib
 import os
+import sys
 import json
 import argparse
 from colorama import Fore,init,Back
@@ -68,12 +69,14 @@ def welcome():
     print("="*45)
 
 if __name__ == '__main__':
-    welcome()
     # print(os.path.abspath("HashGenerator.py").split(os.path.basename("HashGenerator.py"))[0])
     # pathWalk()
-    parser = argparse.ArgumentParser(prog='hashGen.exe',usage=f'{Fore.LIGHTYELLOW_EX}%(prog)s {Fore.LIGHTRED_EX}[-p] <print_type> {Fore.LIGHTCYAN_EX}[-g] <path>{Fore.LIGHTWHITE_EX} ',description='')
-    parser.add_argument('-p',default='',nargs='?',help='Get game path and print as text/json,like "hashGen.exe -p text" or "hashGen.exe -p json"')
-    parser.add_argument('-g',nargs='?',help=f'Generate hash file from game path[need specified],like "hashGen.exe -g "D:/Games/MiniDL/MiniDL_Data"{Fore.RESET}')
+    parser = argparse.ArgumentParser(prog='hashGen.exe',usage=f'{Fore.LIGHTYELLOW_EX}%(prog)s {Fore.LIGHTRED_EX}[-p] <print_type> {Fore.LIGHTCYAN_EX}[-g] <path> {Fore.LIGHTMAGENTA_EX}[--version]{Fore.LIGHTMAGENTA_EX} ',description='',add_help=False)
+    parser.add_argument('-h','--help',action="store_true",help=f'{Fore.MAGENTA}show this help message and exit{Fore.YELLOW}')
+    parser.add_argument('-p','-print',choices=['json','text'],nargs='?',help=f'{Fore.LIGHTYELLOW_EX}Get game path and print as text/json,like "hashGen.exe -p text" or "hashGen.exe -p json"{Fore.GREEN}')
+    parser.add_argument('-g','-gen',nargs='?',help=f'{Fore.LIGHTGREEN_EX}Generate hash file from game path[need specified],like "hashGen.exe -g "D:/Games/MiniDL/MiniDL_Data"{Fore.RED}')
+    parser.add_argument('--version',help=f'{Fore.LIGHTRED_EX}Print program version{Fore.RESET}',action="store_true")
+
 
     # merge parser
     args = parser.parse_args()
@@ -84,6 +87,10 @@ if __name__ == '__main__':
     elif args.p=='text':
         pathWalk('text')
 
+    if args.version:
+        welcome()
+        sys.exit()
+
     # get Hash
     if args.g!=None:
         if os.path.exists(args.g)==True:
@@ -93,6 +100,6 @@ if __name__ == '__main__':
             print(f"\n{Fore.LIGHTRED_EX} Warning: path is unavailable\n{Fore.RESET}")
             parser.print_help()
     
-    if args.p not in ('json','text',' ') and args.g==None:
+    if args.p==None and args.g==None:
         parser.print_help()
     pass

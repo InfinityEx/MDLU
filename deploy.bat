@@ -1,2 +1,2 @@
 @echo off
-python -m nuitka --onefile --follow-imports --company-name="Team IRIS" --product-name="MiniDL HashGen" --file-version=0.1 --product-version=454.66 --copyright="Team IRIS" --file-description="Hash Generator for MiniDL" --remove-output --show-progress HashGenerator.py"
+python -m nuitka --onefile --follow-imports --company-name="Team IRIS" --product-name="MiniDL HashGen" --file-version=0.1 --product-version=454.66 --copyright="Team IRIS" --file-description="Hash Generator for MiniDL" --output-filename="hashGen.exe" --remove-output --show-progress HashGenerator.py"
