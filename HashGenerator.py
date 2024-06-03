@@ -12,24 +12,29 @@ def pathWalk(outType):
     if os.path.exists(os.getcwd()+"/preference.json"):
         # print(os.path.exists(os.getcwd()+"/preference.json"))
         with open(os.getcwd()+"/preference.json",'r',encoding='utf-8') as pf:
-            settings=json.load(pf)
-            options={}
-            options['path']=settings['Game'][0]['path']
-            options['data']=f"{options['path']}{settings['Game'][0]['data']}"
-            options['hashlist']=f"{options['path']}{settings['Game'][0]['hashlist']}"
-            # print(os.path.exists(options['data']))
-            if outType=='json':
-                return print(options)
-            elif outType=='text':
-                return print(f"path:{options['path']}\ndata:{options['data']}\nhash:{options['hashlist']}")
-            else:
-                exit
+            try:
+                settings=json.load(pf)
+                options={}
+                options['path']=settings['Game'][0]['path']
+                options['data']=f"{options['path']}{settings['Game'][0]['data']}"
+                options['hashlist']=f"{options['path']}{settings['Game'][0]['hashlist']}"
+                # print(os.path.exists(options['data']))
+                if outType=='json':
+                    return print(options)
+                elif outType=='text':
+                    return print(f"path:{options['path']}\ndata:{options['data']}\nhash:{options['hashlist']}")
+                else:
+                    exit
+            except:
+                print(f'{Fore.LIGHTRED_EX}Fatal Error: Incorrect JSON structure{Fore.RESET}')
     else:
-        print('error')
+        print(f'{Fore.LIGHTRED_EX}Error: preference file not found{Fore.RESET}')
 
 
 # getHash
-def getHash():
+def getHash(path):
+    md5=hashlib.md5(open(path,'rb').read()).hexdigest()
+    return md5
     pass
 
 
@@ -50,7 +55,7 @@ def interia(path):
             litdetial={
                 "filename":file_name,
                 "path":os.path.join(root,file).replace('\\','/').split(path)[1],
-                "md5":hashlib.md5(open(file_patht,'rb').read()).hexdigest(),
+                "md5":getHash(file_patht),
                 "version":"0.4.5"
                 }
             print("os path join: "+os.path.join(root,file))
@@ -71,11 +76,12 @@ def welcome():
 if __name__ == '__main__':
     # print(os.path.abspath("HashGenerator.py").split(os.path.basename("HashGenerator.py"))[0])
     # pathWalk()
-    parser = argparse.ArgumentParser(prog='hashGen.exe',usage=f'{Fore.LIGHTYELLOW_EX}%(prog)s {Fore.LIGHTRED_EX}[-p] <print_type> {Fore.LIGHTCYAN_EX}[-g] <path> {Fore.LIGHTMAGENTA_EX}[--version]{Fore.LIGHTMAGENTA_EX} ',description='',add_help=False)
-    parser.add_argument('-h','--help',action="store_true",help=f'{Fore.MAGENTA}show this help message and exit{Fore.YELLOW}')
-    parser.add_argument('-p','-print',choices=['json','text'],nargs='?',help=f'{Fore.LIGHTYELLOW_EX}Get game path and print as text/json,like "hashGen.exe -p text" or "hashGen.exe -p json"{Fore.GREEN}')
-    parser.add_argument('-g','-gen',nargs='?',help=f'{Fore.LIGHTGREEN_EX}Generate hash file from game path[need specified],like "hashGen.exe -g "D:/Games/MiniDL/MiniDL_Data"{Fore.RED}')
-    parser.add_argument('--version',help=f'{Fore.LIGHTRED_EX}Print program version{Fore.RESET}',action="store_true")
+    parser = argparse.ArgumentParser(prog='hashGen.exe',usage=f'{Fore.LIGHTYELLOW_EX}%(prog)s {Fore.LIGHTRED_EX}[-p] <print_type> {Fore.LIGHTCYAN_EX}[-g] <path> {Fore.LIGHTMAGENTA_EX}[--version]{Fore.RESET} ',description='',add_help=False)
+    parser.add_argument('-h','--help',action="store_true",help=f'{Fore.LIGHTWHITE_EX}show this help message and exit{Fore.RED}')
+    parser.add_argument('-p','-print',choices=['json','text'],nargs='?',help=f'{Fore.LIGHTRED_EX}Get game path and print as text/json,like "hashGen.exe -p text" or "hashGen.exe -p json"{Fore.CYAN}')
+    parser.add_argument('-g','-gen',nargs='?',help=f'{Fore.LIGHTCYAN_EX}Generate hash file from game path[need specified],like "hashGen.exe -g "D:/Games/MiniDL/MiniDL_Data"{Fore.MAGENTA}')
+    parser.add_argument('--version',help=f'{Fore.LIGHTMAGENTA_EX}Print program version{Fore.RESET}',action="store_true")
+    parser.add_argument('-mini',action="store_true")
 
 
     # merge parser
@@ -91,6 +97,12 @@ if __name__ == '__main__':
         welcome()
         sys.exit()
 
+    if args.mini:
+        print(args)
+        realpath=pathWalk(json)
+        print(realpath,type(realpath))
+        pass
+
     # get Hash
     if args.g!=None:
         if os.path.exists(args.g)==True:
@@ -100,6 +112,6 @@ if __name__ == '__main__':
             print(f"\n{Fore.LIGHTRED_EX} Warning: path is unavailable\n{Fore.RESET}")
             parser.print_help()
     
-    if args.p==None and args.g==None:
+    if args.p==None and args.g==None and args.mini==False:
         parser.print_help()
     pass
