@@ -1,0 +1,2218 @@
+{
+  "data": [
+    {
+      "filename": "MiniDL.exe",
+      "path": "/MiniDL.exe",
+      "md5": "d6a82c19111a073ce0f00d8f0d44a75f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityCrashHandler64.exe",
+      "path": "/UnityCrashHandler64.exe",
+      "md5": "805d04a0d8c6718748d93266ed3207d9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityPlayer.dll",
+      "path": "/UnityPlayer.dll",
+      "md5": "35ecf58eff7817bdf449fb7432cbf983",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "lib_burst_generated.txt",
+      "path": "/MiniDL_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
+      "md5": "32575c30b47e59424b1ec1d561eca8bb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "app.info",
+      "path": "/MiniDL_Data/app.info",
+      "md5": "f3ac8e927824fec39bcc041320ce3773",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "boot.config",
+      "path": "/MiniDL_Data/boot.config",
+      "md5": "2b77119d737c1c2caf66bc03e37efed2",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "globalgamemanagers",
+      "path": "/MiniDL_Data/globalgamemanagers",
+      "md5": "74ca27abb165ae4a4c2573c04e088fce",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "globalgamemanagers.assets",
+      "path": "/MiniDL_Data/globalgamemanagers.assets",
+      "md5": "f5a883c18ddce93506f902fdf31ade65",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "globalgamemanagers.assets.resS",
+      "path": "/MiniDL_Data/globalgamemanagers.assets.resS",
+      "md5": "24afb076ecdc158b41fef0f8784850f5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "level0",
+      "path": "/MiniDL_Data/level0",
+      "md5": "9e250e02092fdf7c49923f62ccd40aa7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "level1",
+      "path": "/MiniDL_Data/level1",
+      "md5": "12831ec0f92b205e0f1e5f2db5a37b8f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "level2",
+      "path": "/MiniDL_Data/level2",
+      "md5": "e29772ab44c502561ea529ec43872ae0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "resources.assets",
+      "path": "/MiniDL_Data/resources.assets",
+      "md5": "3d9b1d45ad4ae3a57fd423cd597913f0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "resources.assets.resS",
+      "path": "/MiniDL_Data/resources.assets.resS",
+      "md5": "0d5c519931741a501581bfaae817f82e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "resources.resource",
+      "path": "/MiniDL_Data/resources.resource",
+      "md5": "390a56334f389c3192b110098e606755",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "RuntimeInitializeOnLoads.json",
+      "path": "/MiniDL_Data/RuntimeInitializeOnLoads.json",
+      "md5": "be433872095c353ddbddccfde6f3184b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ScriptingAssemblies.json",
+      "path": "/MiniDL_Data/ScriptingAssemblies.json",
+      "md5": "429e65dc0763f3af945a7dc1696e5711",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets0.assets",
+      "path": "/MiniDL_Data/sharedassets0.assets",
+      "md5": "ca61cf104a2645246a7792819f6c5db6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets0.assets.resS",
+      "path": "/MiniDL_Data/sharedassets0.assets.resS",
+      "md5": "d414dba4a5cccd7ab53d4b5e41c33b90",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets0.resource",
+      "path": "/MiniDL_Data/sharedassets0.resource",
+      "md5": "925548579cd9f51da3aad1b568e3dd5c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets1.assets",
+      "path": "/MiniDL_Data/sharedassets1.assets",
+      "md5": "3181c76619711b3ae7f179ef16fd0845",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets1.assets.resS",
+      "path": "/MiniDL_Data/sharedassets1.assets.resS",
+      "md5": "897b4c01a0dea4a10f9a2d490fbc11bc",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets2.assets",
+      "path": "/MiniDL_Data/sharedassets2.assets",
+      "md5": "4c2b92a70168d081923d557a558454b7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets2.assets.resS",
+      "path": "/MiniDL_Data/sharedassets2.assets.resS",
+      "md5": "c213b510502f2789adbb6456fac6fdc8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "sharedassets2.resource",
+      "path": "/MiniDL_Data/sharedassets2.resource",
+      "md5": "d94de273d5c3a2df85aafa2af8220aa7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "version.json",
+      "path": "/MiniDL_Data/version.json",
+      "md5": "7c44cd12aa70317a65f55f819e5f6d85",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "AllIn1SpriteShaderAssembly.dll",
+      "path": "/MiniDL_Data/Managed/AllIn1SpriteShaderAssembly.dll",
+      "md5": "43d81dfcdc0676e3b9226969e1c14332",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Assembly-CSharp-firstpass.dll",
+      "path": "/MiniDL_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "md5": "b5f6b930755e8bc7a1d45b6c3385f8eb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Assembly-CSharp.dll",
+      "path": "/MiniDL_Data/Managed/Assembly-CSharp.dll",
+      "md5": "72d1f33d38025a007aa95babc0807f56",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Autodesk.Fbx.dll",
+      "path": "/MiniDL_Data/Managed/Autodesk.Fbx.dll",
+      "md5": "a27be5f5c10f0e8e68aa9eb766ce5135",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "BehaviorDesigner.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/BehaviorDesigner.Runtime.dll",
+      "md5": "5172c8be994244d264f40dab1ffb2fb2",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Cinemachine.dll",
+      "path": "/MiniDL_Data/Managed/Cinemachine.dll",
+      "md5": "c73c2251a32d84ccad8f2be55435fbce",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "DOTween.dll",
+      "path": "/MiniDL_Data/Managed/DOTween.dll",
+      "md5": "f25d564a2814476f6765fb3edbd0595e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "FbxBuildTestAssets.dll",
+      "path": "/MiniDL_Data/Managed/FbxBuildTestAssets.dll",
+      "md5": "22a6f3011f6080540ce112e3c0970283",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "LitJson.dll",
+      "path": "/MiniDL_Data/Managed/LitJson.dll",
+      "md5": "490b83bd03bf52981db1230246a0b239",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Mono.Security.dll",
+      "path": "/MiniDL_Data/Managed/Mono.Security.dll",
+      "md5": "8138b7266a2fd1e829375f6260590938",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "mscorlib.dll",
+      "path": "/MiniDL_Data/Managed/mscorlib.dll",
+      "md5": "5d1fb0dde0ed6bcf995eddde1232bca7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "netstandard.dll",
+      "path": "/MiniDL_Data/Managed/netstandard.dll",
+      "md5": "c61967ebe7f07f6a5a1b3f91842bbc3c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Newtonsoft.Json.dll",
+      "path": "/MiniDL_Data/Managed/Newtonsoft.Json.dll",
+      "md5": "95fabcecebe498f780caaaa33483bb2f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.ComponentModel.Composition.dll",
+      "path": "/MiniDL_Data/Managed/System.ComponentModel.Composition.dll",
+      "md5": "ffefd602f98a670efa39e030c40f455a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Configuration.dll",
+      "path": "/MiniDL_Data/Managed/System.Configuration.dll",
+      "md5": "df0700dc97faa30b55e1f583de482f8e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Core.dll",
+      "path": "/MiniDL_Data/Managed/System.Core.dll",
+      "md5": "c80d7a38b85e9d314b33dbb72153f2fe",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Data.DataSetExtensions.dll",
+      "path": "/MiniDL_Data/Managed/System.Data.DataSetExtensions.dll",
+      "md5": "01d2d862064d14a59a5c2a7b1ef6a566",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Data.dll",
+      "path": "/MiniDL_Data/Managed/System.Data.dll",
+      "md5": "380acc1fb508d3d16189ae2eadec771d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.dll",
+      "path": "/MiniDL_Data/Managed/System.dll",
+      "md5": "990eb48072accb624e91b0d8e4fd4115",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Drawing.dll",
+      "path": "/MiniDL_Data/Managed/System.Drawing.dll",
+      "md5": "1ff1003a4f872e1b71d8e5705ee367d4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.EnterpriseServices.dll",
+      "path": "/MiniDL_Data/Managed/System.EnterpriseServices.dll",
+      "md5": "486670a8bdb0d12db940c4bb489de4cb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.IO.Compression.dll",
+      "path": "/MiniDL_Data/Managed/System.IO.Compression.dll",
+      "md5": "23565a9774254564b365ec5c869991ca",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.IO.Compression.FileSystem.dll",
+      "path": "/MiniDL_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "md5": "7f61a18947a2b7b123f06653f63e0177",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Net.Http.dll",
+      "path": "/MiniDL_Data/Managed/System.Net.Http.dll",
+      "md5": "578c4410dcd7f111fe31ecde08828895",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Numerics.dll",
+      "path": "/MiniDL_Data/Managed/System.Numerics.dll",
+      "md5": "9df2b9d9d5f5730907f94a4131a8502f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/System.Runtime.dll",
+      "md5": "77d74adcdea84d53a1fbe89e79737c1e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Runtime.Serialization.dll",
+      "path": "/MiniDL_Data/Managed/System.Runtime.Serialization.dll",
+      "md5": "8e998a933f93066dd98f3aeff0b2d3d2",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Security.dll",
+      "path": "/MiniDL_Data/Managed/System.Security.dll",
+      "md5": "2daa35f09d3e0532fd450f4417858c8a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.ServiceModel.Internals.dll",
+      "path": "/MiniDL_Data/Managed/System.ServiceModel.Internals.dll",
+      "md5": "cfb1e87f34ba745e65c4e9731d7b1234",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Transactions.dll",
+      "path": "/MiniDL_Data/Managed/System.Transactions.dll",
+      "md5": "365dff1d7e08e89f9ebf336d14c9bf6c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Xml.dll",
+      "path": "/MiniDL_Data/Managed/System.Xml.dll",
+      "md5": "a11c72575aa907dbbd10d55cece32634",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "System.Xml.Linq.dll",
+      "path": "/MiniDL_Data/Managed/System.Xml.Linq.dll",
+      "md5": "eabdb6c2414c60fc068376dec4f4920f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.2D.Animation.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.2D.Animation.Runtime.dll",
+      "md5": "51e856b0cebb8ffd02935c554397bfcf",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.2D.Common.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.2D.Common.Runtime.dll",
+      "md5": "6ae1d6e854d8c64e2f5268d64c1757a5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.2D.IK.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.2D.IK.Runtime.dll",
+      "md5": "774b9fde4a8190ed6e3f908cee676998",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.2D.PixelPerfect.dll",
+      "path": "/MiniDL_Data/Managed/Unity.2D.PixelPerfect.dll",
+      "md5": "5cf5626a030daa3871820e78a1528092",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.2D.SpriteShape.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
+      "md5": "61ee335ea8345fed09014ec14215bb33",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.2D.Tilemap.Extras.dll",
+      "path": "/MiniDL_Data/Managed/Unity.2D.Tilemap.Extras.dll",
+      "md5": "a0230deffaab026381936328c6dae14f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Animation.Rigging.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Animation.Rigging.dll",
+      "md5": "f82ae29f4bcff3e234c9348e6af3c00a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Burst.Cecil.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Burst.Cecil.dll",
+      "md5": "6525355dbe4efbb8816ad87bf82ab10e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Burst.Cecil.Mdb.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Burst.Cecil.Mdb.dll",
+      "md5": "4df62524996bb8ff726b672ed71358b4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Burst.Cecil.Pdb.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Burst.Cecil.Pdb.dll",
+      "md5": "39ac654a69c457fa52c3611dff425220",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Burst.Cecil.Rocks.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Burst.Cecil.Rocks.dll",
+      "md5": "d32af3691e6787b537510e2b58049f88",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Burst.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Burst.dll",
+      "md5": "1f7619e9b3076271358079798498d9de",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Burst.Unsafe.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Burst.Unsafe.dll",
+      "md5": "129351e9879a83262ea92a4a45aacc46",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Formats.Fbx.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Formats.Fbx.Runtime.dll",
+      "md5": "a8b1dcadeeeaf202e2ac1efb7fe9892c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.InternalAPIEngineBridge.001.dll",
+      "path": "/MiniDL_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+      "md5": "f751e14e7ba83a6145398d9cb040b68e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Mathematics.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Mathematics.dll",
+      "md5": "acb434963bbf92c77d730093ea7b58e5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Polybrush.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Polybrush.dll",
+      "md5": "3495564b304ec873115a2394ef9663ca",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Postprocessing.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "md5": "4b16e0ece4b128f2edfaa8aeade0067f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.ProBuilder.Csg.dll",
+      "path": "/MiniDL_Data/Managed/Unity.ProBuilder.Csg.dll",
+      "md5": "e4100068523cc180a549a0a3e7533cd8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.ProBuilder.dll",
+      "path": "/MiniDL_Data/Managed/Unity.ProBuilder.dll",
+      "md5": "fe28fe12a31850a2d81855f4060bf586",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.ProBuilder.KdTree.dll",
+      "path": "/MiniDL_Data/Managed/Unity.ProBuilder.KdTree.dll",
+      "md5": "bdd6b693d3f3bbca1ce1ea44852f3a64",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.ProBuilder.Poly2Tri.dll",
+      "path": "/MiniDL_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
+      "md5": "f38f398d3cefb8a1f4c06cd967501322",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.ProBuilder.Stl.dll",
+      "path": "/MiniDL_Data/Managed/Unity.ProBuilder.Stl.dll",
+      "md5": "e74d80a27555f1b3c4402a5cded13a25",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "path": "/MiniDL_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "md5": "5b021e9fe121401d42812531a131e373",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.RenderPipelines.Core.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "md5": "b6d6224dde73a780096360e5e32034c7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "path": "/MiniDL_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "md5": "a780171a9415c67459c4a7ca4ed67f14",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "path": "/MiniDL_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "md5": "8d6b2a4cefd682def066a29db8bcc84c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.RenderPipelines.Universal.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "md5": "b27b24b97e1fd58a34ec203ed11899b1",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.RenderPipelines.Universal.Shaders.dll",
+      "path": "/MiniDL_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "md5": "0126708a6babf5507d455e3458c3ce8d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Analytics.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Analytics.dll",
+      "md5": "45935c96e70707e4bc9a70b855b9af2a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Configuration.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Configuration.dll",
+      "md5": "b25756d4511c361f629d73190e84e219",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Device.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Device.dll",
+      "md5": "9610c40941a3450e37a513dbba146057",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.dll",
+      "md5": "c69acf685632a384fa0639e20acb41ae",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Environments.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Environments.dll",
+      "md5": "6893465a886955f60aaeb1fe4858aa22",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Environments.Internal.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Environments.Internal.dll",
+      "md5": "b1e06f1148cf425aed7e24bd0f78f2e6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Internal.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Internal.dll",
+      "md5": "e8b6acec59aae8130fafcb16ee771183",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Networking.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Networking.dll",
+      "md5": "7fa54c3bc146c56383ad59e3f5beeaf6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Registration.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Registration.dll",
+      "md5": "623955263586079f90cc71dfb05f93e5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Scheduler.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Scheduler.dll",
+      "md5": "c4ce8cd13026297d71564412fbad1d0b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Telemetry.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Telemetry.dll",
+      "md5": "28888ef6b1a2bf043aeb90785cbfc8d6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Services.Core.Threading.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Services.Core.Threading.dll",
+      "md5": "423d218884ab2514d742848c77c1711c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.TerrainTools.dll",
+      "path": "/MiniDL_Data/Managed/Unity.TerrainTools.dll",
+      "md5": "447d564de4153b27ff6366abefaf9b0d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.TextMeshPro.dll",
+      "path": "/MiniDL_Data/Managed/Unity.TextMeshPro.dll",
+      "md5": "bfcd9092b4986c0abdc4c88dcaa4e4e9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.Timeline.dll",
+      "path": "/MiniDL_Data/Managed/Unity.Timeline.dll",
+      "md5": "68ee894eef192913cb840e7663abe5cb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Unity.VisualEffectGraph.Runtime.dll",
+      "path": "/MiniDL_Data/Managed/Unity.VisualEffectGraph.Runtime.dll",
+      "md5": "8250190c9207e1280e40a42e03f8538e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.AccessibilityModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "md5": "45e81619e27be0b425814b0022495109",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.AIModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.AIModule.dll",
+      "md5": "1f7f808246d6651acadf00e12d322fb9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.AndroidJNIModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "md5": "14b666027c084e527c0cbcd5463d721c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.AnimationModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.AnimationModule.dll",
+      "md5": "77eda9aa7e775707190e4ff7083b880e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ARModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ARModule.dll",
+      "md5": "b2cbd200374bde36abcd91c0e9950b77",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.AssetBundleModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "md5": "3c3e9cab763676a0f4dc4925f8c16c25",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.AudioModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.AudioModule.dll",
+      "md5": "50674862e7f24df91d2ebb8d14ddde20",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ClothModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ClothModule.dll",
+      "md5": "e2804a00021cdb27ee2e46ead4778704",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ClusterInputModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "md5": "e9bd6e5e4f6ebbf780f8946aa7791052",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ClusterRendererModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "md5": "5ae2dd4eebc2da28fbd1460d7bd7525b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.CoreModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.CoreModule.dll",
+      "md5": "59d643fd8d59ef26c5c64300b3cc7bd8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.CrashReportingModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "md5": "acfdf62a3cdca36c9d18830787433e0c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.DirectorModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.DirectorModule.dll",
+      "md5": "16c96af41ba8a2e1864cb6d07d25149a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.dll",
+      "md5": "79521e35f93fb6bec8ecd12ec8c617d7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.DSPGraphModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "md5": "03afcb4212f8b2c994d3b8db531f2bbe",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.GameCenterModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "md5": "6a0884fe45e34108de4a51c7daa8a4c4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.GIModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.GIModule.dll",
+      "md5": "5f3bb1c47f38dcdf5e7a85c6ea64cb45",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.GridModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.GridModule.dll",
+      "md5": "e47aa8735475543df8ce3478c146c00b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.HotReloadModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "md5": "3f20f18f7683788fa257ca36b06a7b4f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ImageConversionModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "md5": "29466fa0276ad37c8ce35a88d2176490",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.IMGUIModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "md5": "8d2e8ced77cacb7f6574d23bf9524025",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.InputLegacyModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "md5": "43b068b17eec3d70520466d4ac735845",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.InputModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.InputModule.dll",
+      "md5": "2cddf9828ba4da58e82f15e8e2a8aef8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.JSONSerializeModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "md5": "b47cf4e077ac1a8514f6f83313b12b8d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.LocalizationModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "md5": "6fb026564f9d67d36e01e462389a0d4c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.NVIDIAModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "md5": "b124b4d809b6b9435227a2f24f6c16f8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ParticleSystemModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "md5": "881d260e2954af3e5b8e8a5b0f6b4706",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.PerformanceReportingModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "md5": "174d4b618ca83802867b19f6ea7712f6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.Physics2DModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "md5": "59e9fc4e44e2443b697a0e0aad0e844b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.PhysicsModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "md5": "1322368000a19180c29f28e121573e43",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ProfilerModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "md5": "7d4e1b87c89b7566e8a3cf0e9d8001c7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "md5": "3051a407527d0088f5dd3b20165dcc65",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.ScreenCaptureModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "md5": "394d7e85d8a34355feb435ee1c02681a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.SharedInternalsModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "md5": "79f7e06a9265873beff066a22cb5ec2c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.SpriteMaskModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "md5": "3bca5de2c63da27fe92dd3164a0c5678",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.SpriteShapeModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "md5": "fcc567805e3fccd31e4bf171d23485c6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.StreamingModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.StreamingModule.dll",
+      "md5": "24cde4badfb6013a2a88a92ae36c4b12",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.SubstanceModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "md5": "fd89c28b870d39ced061f92834251c96",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.SubsystemsModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "md5": "08b260d5a4237ed392dd8bda93ed0987",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TerrainModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TerrainModule.dll",
+      "md5": "99d829be96188e6511b1456082917311",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TerrainPhysicsModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "md5": "d0336c19e8d33180526c3beac2a39932",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TextCoreFontEngineModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "md5": "0f8708a67c87b4c06696e99c3a61f2e0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TextCoreTextEngineModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "md5": "9cf737a5049e7586ac32aee30de7d968",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TextRenderingModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "md5": "c6918aa3a634fba396a606a2addd066e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TilemapModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TilemapModule.dll",
+      "md5": "2219c949951d9c1bac59c464ea311d7c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.TLSModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.TLSModule.dll",
+      "md5": "cfc491f978f1535769ff6929a72c2efe",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UI.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UI.dll",
+      "md5": "608f4f9a5ac084c8fecd8e4b20defbee",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UIElementsModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "md5": "c90c4f75b55656d25c022f09c50b7a2b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UIElementsNativeModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "md5": "85e996766083e31e45d5cee48f0c7c16",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UIModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UIModule.dll",
+      "md5": "79df0167271ec407f76a0575540c492f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UmbraModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UmbraModule.dll",
+      "md5": "61ecb7e3beaf14223b884e68730f1822",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UNETModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UNETModule.dll",
+      "md5": "8d5ea2c3ae45dbcc947d84b72b86a747",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityAnalyticsModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "md5": "f8e320aba4041ebbcbc9a22565690ed6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityConnectModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "md5": "30f4aeab6f3af9af30c345d3a50a7282",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityCurlModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "md5": "a6b477576c78a53e960c5f8861a74375",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityTestProtocolModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "md5": "16286d745f830debdaf48b106e42e402",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "md5": "14c1e0f4efeafbc75d918bf93a2ce340",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityWebRequestAudioModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "md5": "33ca1dd31cc2072fa4d93ad8c95a391b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityWebRequestModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "md5": "d7ce64e453cc67c4d3844edf204c46ba",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityWebRequestTextureModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "md5": "ca805b0ba7a225a1abff8eb403dcc18a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.UnityWebRequestWWWModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "md5": "c5ea8bacd5780be9cafba8b36c1e3f5b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.VehiclesModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "md5": "2024f58a5153966a901868e8af9c5b1b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.VFXModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.VFXModule.dll",
+      "md5": "9d2b6d733e162f508c61eef29a9a534b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.VideoModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.VideoModule.dll",
+      "md5": "932b61e87fafd0a898781e4f3bdc7d3d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.VirtualTexturingModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "md5": "7960dc2aed25729fe79586ecb5c7461e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.VRModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.VRModule.dll",
+      "md5": "76cd55084d1356ff34d89ed84ba79f4d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.WindModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.WindModule.dll",
+      "md5": "b476a4b62a86b503375c0e4129b4c468",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityEngine.XRModule.dll",
+      "path": "/MiniDL_Data/Managed/UnityEngine.XRModule.dll",
+      "md5": "d11802e3cae7cd09f65cc88b4cc6e6bb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "lib_burst_generated.dll",
+      "path": "/MiniDL_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "md5": "7f7d25165ed1f4d6f74110fb29b76b28",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "unity default resources",
+      "path": "/MiniDL_Data/Resources/unity default resources",
+      "md5": "81dc95b4cd2025b3763d12e16573fff4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "unity_builtin_extra",
+      "path": "/MiniDL_Data/Resources/unity_builtin_extra",
+      "md5": "e3a398af703cebd8508c28c1be894b2c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "118effbundle",
+      "path": "/MiniDL_Data/StreamingAssets/118effbundle",
+      "md5": "12bdf3732a6c0714424e24858c7f3add",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "118effbundle.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/118effbundle.manifest",
+      "md5": "3e245c3f935c1443174013e21fdbe73f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "AbilityDetailedInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/AbilityDetailedInfo.json",
+      "md5": "9024c630d890eb29cdabdbf36ffbdafe",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "AbilityDetailedInfo_JP.json",
+      "path": "/MiniDL_Data/StreamingAssets/AbilityDetailedInfo_JP.json",
+      "md5": "9455451b460207359a59134bc84a9318",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "allin1",
+      "path": "/MiniDL_Data/StreamingAssets/allin1",
+      "md5": "504fb38a72a6de2b16cc946c4ed5cd5f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "allin1.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/allin1.manifest",
+      "md5": "2dc38c711612f7d6156426010cb10fac",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "BossSkillInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/BossSkillInfo.json",
+      "md5": "1f559187b20af2d168389457021d1270",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "boss_ability_icon",
+      "path": "/MiniDL_Data/StreamingAssets/boss_ability_icon",
+      "md5": "d7a7c10d0c1e3752cd362c7e39957e43",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "boss_ability_icon.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/boss_ability_icon.manifest",
+      "md5": "999f44472c85efcd2634dc0830dd6646",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "c005",
+      "path": "/MiniDL_Data/StreamingAssets/c005",
+      "md5": "67f96c4ca173d587b46dead4d75fac13",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "c005.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/c005.manifest",
+      "md5": "16137fd6cc9ba7d4b999d36b56bc13d8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "CharacterInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/CharacterInfo.json",
+      "md5": "403941fb5fadeb9a48706d0b5b8d4346",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "CharacterInfo_JP.json",
+      "path": "/MiniDL_Data/StreamingAssets/CharacterInfo_JP.json",
+      "md5": "145679aa6a9c71c475bbce3d2c2a58f7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "fonts",
+      "path": "/MiniDL_Data/StreamingAssets/fonts",
+      "md5": "4080d37250cca5b7ee5d228864a69e63",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "fonts.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/fonts.manifest",
+      "md5": "4ff24334fc7a1f871ae2846ffb3472fe",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "hb001",
+      "path": "/MiniDL_Data/StreamingAssets/hb001",
+      "md5": "93946a434b65dc3052194b0bb155a135",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "hb001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/hb001.manifest",
+      "md5": "e6a20e988853c76b824be50703ed3da8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "iconsmall",
+      "path": "/MiniDL_Data/StreamingAssets/iconsmall",
+      "md5": "175fdeceb4e107d01389f6d4d7486f9f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "iconsmall.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/iconsmall.manifest",
+      "md5": "1e8998f2127a8ab7375ced0bc548487a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "newbundletest",
+      "path": "/MiniDL_Data/StreamingAssets/newbundletest",
+      "md5": "400d8e866fb1eeeeb8975d30358cffec",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "newbundletest.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/newbundletest.manifest",
+      "md5": "d8f34e37964d88372136fa6a980d15c0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "SkillDetailedInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/SkillDetailedInfo.json",
+      "md5": "ebb4176b918037e286b6a2d0a736e1bd",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "SkillDetailedInfo_JP.json",
+      "path": "/MiniDL_Data/StreamingAssets/SkillDetailedInfo_JP.json",
+      "md5": "6bf8bb61f5252bf81ed42ebba1b929cc",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "soundeffect_common",
+      "path": "/MiniDL_Data/StreamingAssets/soundeffect_common",
+      "md5": "af0b65a5d843e3d36804b2cd48a895dc",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "soundeffect_common.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/soundeffect_common.manifest",
+      "md5": "f79f385aec784af9361d29ad2a8b1ab3",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "StandaloneWindows",
+      "path": "/MiniDL_Data/StreamingAssets/StandaloneWindows",
+      "md5": "dda911f426284da0338dd7a9fcbc0df4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "StandaloneWindows.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/StandaloneWindows.manifest",
+      "md5": "89da1bfaeefbb104bb1a17fcae33ffb8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "test.json",
+      "path": "/MiniDL_Data/StreamingAssets/test.json",
+      "md5": "72608379faf26edf92948bf6d2ca9e8e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c001",
+      "path": "/MiniDL_Data/StreamingAssets/ui_c001",
+      "md5": "76720ac4e0b30e33200ca770b4727088",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/ui_c001.manifest",
+      "md5": "553af1b08896f9f831a79bf8f7e42ffb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_general",
+      "path": "/MiniDL_Data/StreamingAssets/ui_general",
+      "md5": "d9da93b2a642a910a7a24ed346c226e9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_general.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/ui_general.manifest",
+      "md5": "9f13741a253f1fa87e17b9009a9079c3",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "UnityServicesProjectConfiguration.json",
+      "path": "/MiniDL_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "md5": "b225a14f3d6d0971fcc8cd013b701f51",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c001",
+      "path": "/MiniDL_Data/StreamingAssets/voice_c001",
+      "md5": "f6c7a815e0a7ff78b9ba035b7a63afef",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice_c001.manifest",
+      "md5": "a1018e9179f6fea92307af427dfd0526",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c005",
+      "path": "/MiniDL_Data/StreamingAssets/voice_c005",
+      "md5": "bdd8547ed7ff0026b6f49e28898b35f6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c005.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice_c005.manifest",
+      "md5": "3e0c098c20ecde27bfa4e5a40f222b15",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "anim_common",
+      "path": "/MiniDL_Data/StreamingAssets/animation/anim_common",
+      "md5": "4f33e30201ceab9e34c0e0f636122345",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "anim_common.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/animation/anim_common.manifest",
+      "md5": "d8a58d3af56af33f6da3c3b8858aa04c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm002",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm002",
+      "md5": "0e2364bd887f1a7e73cbef8ce20ec086",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm002.manifest",
+      "md5": "867910e14f0d2eec94b7e78768eeecd6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm004",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm004",
+      "md5": "a06b0b122cc3bcf723412e5097afd627",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm004.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm004.manifest",
+      "md5": "175fa9c1d669851ec8f1de4650d03a4a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm005",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm005",
+      "md5": "edde4ce6a4b49bfb7e2e334a21bcd7e9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm005.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm005.manifest",
+      "md5": "2100d6870044038548a6ea54928d5a46",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm006",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm006",
+      "md5": "a21ff5fa89127a36da9c8420f54ebdcb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm006.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm006.manifest",
+      "md5": "34df03d0c259810f1f79b9798e4b1684",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm007",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm007",
+      "md5": "db93698a1381687d9203dd6d79775853",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "bgm007.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/bgm/bgm007.manifest",
+      "md5": "e44f3176185342fa1779bfdc2b1d4b46",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c001",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c001",
+      "md5": "2a731f6ad73bd4eef661e9c309bd5f38",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c001.manifest",
+      "md5": "4164b76da4b9b482f66cc65e4c002af0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c002",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c002",
+      "md5": "95db519a12143a22208ed23b81eea078",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c002.manifest",
+      "md5": "2938c673b9f0b01ab446262f3342e0ca",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c003",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c003",
+      "md5": "e216f1323bdedb7c770236cee9e540cc",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c003.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c003.manifest",
+      "md5": "b9c24d405dbdc0c533cceea1bd9db5b4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c004",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c004",
+      "md5": "ddbc8df4fa9e752b9a2f9802c039f0b4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c004.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c004.manifest",
+      "md5": "494a20e11c617f0d0744347beaf0dfa1",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c005",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c005",
+      "md5": "f1daa80dee3efb66afdc03ed18b7c994",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c005.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c005.manifest",
+      "md5": "6e06870c11df44bc1b5135a490984cbe",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c010",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c010",
+      "md5": "3b8e7237c4ec4bc8d02bd6e6a37ad713",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c010.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c010.manifest",
+      "md5": "a22b89a1fc31f758a51bc35c091b2e71",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c019",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c019",
+      "md5": "094f2c31563c8729cde7903af97d9d28",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_c019.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_c019.manifest",
+      "md5": "3d3f147a8c8492d770d6c27922bf7d13",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_db001",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_db001",
+      "md5": "b47a9c7458596a065c18253899a2a1b6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_db001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_db001.manifest",
+      "md5": "eb0a8ff572c5f8a37c20bdc182703b8c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_general",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_general",
+      "md5": "15da5d3ca891949be2cd24ad85e99a39",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "eff_general.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/eff/eff_general.manifest",
+      "md5": "6702a8ebd04b3af1cdb2f5768b26bfa9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "db_2001",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/db_2001",
+      "md5": "ad59a5b670230b5e3634d594e08d830b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "db_2001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/db_2001.manifest",
+      "md5": "3edf2e0e73a1412a18e2529beba71a0b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "en_3001",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/en_3001",
+      "md5": "9f8117b814ed1a0f8fe6e486a0794064",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "en_3001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/en_3001.manifest",
+      "md5": "7c9dda01a5b1876fccc5c92db0b1ac1f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "en_9001",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/en_9001",
+      "md5": "54602934f68b0faf67440dcc02592fbb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "en_9001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/en_9001.manifest",
+      "md5": "01acd47956cb1c79bb87e60fe2b8446a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "hb_1001",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/hb_1001",
+      "md5": "8fc67b294babcf23ee8ab1f7ca086707",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "hb_1001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/hb_1001.manifest",
+      "md5": "15af8b246ad3e96768f24b17cf2c4ecf",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "hb_1002",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/hb_1002",
+      "md5": "d89739d238e3dc7036e6a20aaf4f5742",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "hb_1002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/hb_1002.manifest",
+      "md5": "600f66fa63f91694c8e1d565f2ec47d9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "NewFile1.json",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/EnemyBehaviors/NewFile1.json",
+      "md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "NewFile1.txt",
+      "path": "/MiniDL_Data/StreamingAssets/enemy/EnemyBehaviors/NewFile1.txt",
+      "md5": "d735a2f25b480c998fbb92f66e5911c9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "BossAbilityDetail_ZH.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/BossAbilityDetail_ZH.json",
+      "md5": "fb8ba1589cd648f6a28169f96fc18b5c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "BossSkillInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/BossSkillInfo.json",
+      "md5": "910329484ca65746d557cd396c9a8091",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "QuestDialogInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/QuestDialogInfo.json",
+      "md5": "03796204a7a121d2c3db4e24d4f75e8b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "QuestDialogInfoStory.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/QuestDialogInfoStory.json",
+      "md5": "fb6cc7fedffb3871252c5899475f18fd",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "QuestDialogInfo_EN.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/QuestDialogInfo_EN.json",
+      "md5": "77647a9f7ec0854f0003aff133d76910",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "QuestInfo.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/QuestInfo.json",
+      "md5": "9a03118217cdea447c228e574f3ef17b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "QuestSkillInfoStory.json",
+      "path": "/MiniDL_Data/StreamingAssets/LevelInformation/QuestSkillInfoStory.json",
+      "md5": "15f65ba4280b7949d0aeb3d6f6852af6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c001",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c001",
+      "md5": "a834cf70d1c2c4b6d427779947acd29c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c001.manifest",
+      "md5": "f67dfaa270e823163483071d23d673f0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c002",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c002",
+      "md5": "80a6ee331d25968ebbe20ec69cc15ca9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c002.manifest",
+      "md5": "412565bcbe49d803367aa4def868c80b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c003",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c003",
+      "md5": "a795d9e4dd3df829361c89d2bebc862c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c003.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c003.manifest",
+      "md5": "a559fd0efeaa264a9f28a90b4e5ebe00",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c004",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c004",
+      "md5": "3a497e296445bd8a17a87e5024ba2a3e",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c004.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c004.manifest",
+      "md5": "119c099866254fb46495743e09bb1dad",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c005",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c005",
+      "md5": "ce9f2449fa6a2621a1e681ca3a68ad4d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c005.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c005.manifest",
+      "md5": "3b4863baccb4e7e8091aaf1aa6a2e845",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c010",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c010",
+      "md5": "8e1523188abfcf45273d5bcfd5c3c1eb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c010.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c010.manifest",
+      "md5": "7c84bed5e7f0727a232d644d801551ef",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c019",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c019",
+      "md5": "d28b98c848172deb8831642c991d0e2b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c019.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c019.manifest",
+      "md5": "3497fe4ab8feda99884ede63c4d2e3e4",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c022",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c022",
+      "md5": "082974d81029101dd62f8c1fa434e1e5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c022.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c022.manifest",
+      "md5": "1b3db4eae560f8d220359efa6653fc81",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c023",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c023",
+      "md5": "ddf27c5c398979e158344823d9377534",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_c023.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_c023.manifest",
+      "md5": "ac710a2bce57739a33afcb794f89f49b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_d001",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_d001",
+      "md5": "6dc5258e311bddf211586344637e6859",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_d001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_d001.manifest",
+      "md5": "1d8c6ee126738136e3f63f8bb4619671",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_e001",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_e001",
+      "md5": "4395091070675c95a102e3a89a691bcf",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_e001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_e001.manifest",
+      "md5": "6d05a779042a9bc49a00f4db855e43a9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_other_001",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_other_001",
+      "md5": "0d93b9a13a8b8d5beed529ef45ce13ad",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "model_other_001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/model/model_other_001.manifest",
+      "md5": "f003b6a155f8229a38de3bb02540bc6f",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_01",
+      "path": "/MiniDL_Data/StreamingAssets/npc/npc_prologue_01",
+      "md5": "a76315673e07ae5ef0c815c7b3be13ed",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_01.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/npc/npc_prologue_01.manifest",
+      "md5": "5cb9fe5dda8acb932ddd74af284b5283",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_02",
+      "path": "/MiniDL_Data/StreamingAssets/npc/npc_prologue_02",
+      "md5": "ff6db14da776872d79a7ea2455bfb9a6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_02.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/npc/npc_prologue_02.manifest",
+      "md5": "b55fbf860f24702d78396e98d69be963",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c001",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c001",
+      "md5": "ca41fe10a0212091b83722fc5ca836c8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c001.manifest",
+      "md5": "fddd4ffd927b76c649503c19fa98e2c0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c002",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c002",
+      "md5": "fc220949071c312ab925b3afdfe2cf37",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c002.manifest",
+      "md5": "5e2ea9eb1c27435e486a88425fd5e07b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c003",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c003",
+      "md5": "a562edc16d0564a68eeeeff28799a190",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c003.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c003.manifest",
+      "md5": "d48397d3281d4b302def9b621ac05a4a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c004",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c004",
+      "md5": "02b6893591d459043160e6544c64d37d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "player_c004.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/player/player_c004.manifest",
+      "md5": "59c500acba005dabfb8a6307288ccfc9",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_01",
+      "path": "/MiniDL_Data/StreamingAssets/prefab/npc_prologue_01",
+      "md5": "4a68288d1524bcdaef337125d4263c76",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_01.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/prefab/npc_prologue_01.manifest",
+      "md5": "afe4c65e536a86e53066a64632ad6dee",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_02",
+      "path": "/MiniDL_Data/StreamingAssets/prefab/npc_prologue_02",
+      "md5": "07d94af7580cda31353c3a9e9aa2c8b2",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "npc_prologue_02.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/prefab/npc_prologue_02.manifest",
+      "md5": "9ae69683423fe3e7fdf411cf39b9387d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "PlayerSettings.json",
+      "path": "/MiniDL_Data/StreamingAssets/savedata/PlayerSettings.json",
+      "md5": "0ccbebaa16cec772b692636f0782c7b1",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "QuestSaveData.json",
+      "path": "/MiniDL_Data/StreamingAssets/savedata/QuestSaveData.json",
+      "md5": "5136c0a10a076ac48e394c19fec9953c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "testSaveData.json",
+      "path": "/MiniDL_Data/StreamingAssets/savedata/testSaveData.json",
+      "md5": "1503f2b30053e8e0db150e44e28c77c1",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s10011",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s10011",
+      "md5": "e4793d8c892e41f1aa8466c20da1b0ab",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s10011.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s10011.manifest",
+      "md5": "f7d06953edf11df3645ea7f40f6f9855",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s10021",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s10021",
+      "md5": "a3601895f2bafbc2cd35ab773fba1aa1",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s10021.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s10021.manifest",
+      "md5": "53998ca41c4921885324817f8a598778",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s10022",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s10022",
+      "md5": "6f8de529d60e4765bd08f61ef4bd906b",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s10022.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s10022.manifest",
+      "md5": "a175838199aa2d898e6fc19b4885383a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s20011",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s20011",
+      "md5": "53137fa631ead26ba80918e641e432b8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s20011.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s20011.manifest",
+      "md5": "4d514fa268842de77470db98dffc1995",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s90001",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s90001",
+      "md5": "e0519eb92fbce745dc5329b63a59fde8",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "s90001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/scenes/s90001.manifest",
+      "md5": "8e7b455fe82564e3fa64a54ef4b9bd01",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "soundeffect_common",
+      "path": "/MiniDL_Data/StreamingAssets/soundeffect/soundeffect_common",
+      "md5": "f401d72e9ac4b0f9ce8d6019b021e11d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "soundeffect_common.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/soundeffect/soundeffect_common.manifest",
+      "md5": "d1f769bc299a1898d735040ba725e4d6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ms_bgm",
+      "path": "/MiniDL_Data/StreamingAssets/story/ms_bgm",
+      "md5": "42ed21a3ba5e3311fd00434a2522dc44",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ms_bgm.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/story/ms_bgm.manifest",
+      "md5": "28526b735cbe3441abf1891630c6f099",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ms_in",
+      "path": "/MiniDL_Data/StreamingAssets/story/ms_in",
+      "md5": "c2d8c9941be1204499cf88516538af3a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ms_in.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/story/ms_in.manifest",
+      "md5": "ccf66536cfc4734802ab38ea4eed0f79",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ms_voice",
+      "path": "/MiniDL_Data/StreamingAssets/story/ms_voice",
+      "md5": "4db8034b4a520ca9a1bfcd901aa3c2f5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ms_voice.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/story/ms_voice.manifest",
+      "md5": "a559edf61db507d61197946367842e30",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "1001",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/1001",
+      "md5": "43277e675d1af943f30da645f742c6fd",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "1001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/1001.manifest",
+      "md5": "e1b2e108db4ed746df595ecdaf94ff32",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "1010",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/1010",
+      "md5": "416b8b68ecb120f8f8b1b6b2790e638a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "1010.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/1010.manifest",
+      "md5": "88ae4bf2e069f86724197e304dd6d527",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "1019",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/1019",
+      "md5": "e580b3c8d9b8de924d033b0cfd4e3d70",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "1019.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/1019.manifest",
+      "md5": "53deeac2daad224f08e0dd45851c87d7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "2001",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/2001",
+      "md5": "ce1c267006efe091088a73e50199e5d7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "2001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/storyportrait/2001.manifest",
+      "md5": "7b8e2889e1be80855f5c917b6c597fd5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c001",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c001",
+      "md5": "a076c74fa72761263ac5465760827972",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c001.manifest",
+      "md5": "b8a82e309936e81d6587d6f8c4da94fc",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c002",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c002",
+      "md5": "824a46351f350e6c86571b02be73641a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c002.manifest",
+      "md5": "07e4cbf297ff8d87f614863169a41c21",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c003",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c003",
+      "md5": "7a708949b019896fca1dbf1c4cc9ae44",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c003.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c003.manifest",
+      "md5": "d3bdb64156514412e79aaa49eee8a740",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c004",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c004",
+      "md5": "c73701fc6ae2b1c7402d7c2237096d71",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "ui_c004.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/ui/ui_c004.manifest",
+      "md5": "d56b0824d0bb5b5cf114fe8d2dd8909a",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c001",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c001",
+      "md5": "0700788fe26bb0a1a6e36c983bc48217",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c001.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c001.manifest",
+      "md5": "8dbdd331c5f79776a804b8379356e505",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c002",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c002",
+      "md5": "967bed05912630885bf56e3aff69813d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c002.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c002.manifest",
+      "md5": "16ff01d9cfb48155e60424678eeb9ca1",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c003",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c003",
+      "md5": "5f09bd8eb49c86c8e440239b9d5b3c98",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c003.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c003.manifest",
+      "md5": "e0a5ceeece4872ca1bea87e6dd959bd7",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c004",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c004",
+      "md5": "0a6cb1f9b16b71ce07c73ddea3a9c11d",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c004.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c004.manifest",
+      "md5": "e1ae133de7ddc495362c82b317941a68",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c005",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c005",
+      "md5": "a4670c1a1ae4ca5dcc11f6aa7cb643a6",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c005.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c005.manifest",
+      "md5": "81f68a666218656b9169de2c55168835",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c010",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c010",
+      "md5": "441af76f90a6b9d50fe42fbb4eeecd07",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "voice_c010.manifest",
+      "path": "/MiniDL_Data/StreamingAssets/voice/voice_c010.manifest",
+      "md5": "789d6904fa0a25169d0ca219e349bde5",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "mono-2.0-bdwgc.dll",
+      "path": "/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "md5": "4b032f60ef305e0b535a56c75781957c",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "MonoPosixHelper.dll",
+      "path": "/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "md5": "cff30a1d0907589450ec17e0f892bad0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "browscap.ini",
+      "path": "/MonoBleedingEdge/etc/mono/browscap.ini",
+      "md5": "378be809df7d15aac75a175693e25fbb",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "config",
+      "path": "/MonoBleedingEdge/etc/mono/config",
+      "md5": "ced30438c7663df1f57af23bba624460",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "DefaultWsdlHelpGenerator.aspx",
+      "path": "/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "machine.config",
+      "path": "/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "md5": "5b791b8493c4e9a55d8c5ee522ce1cef",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "settings.map",
+      "path": "/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "md5": "22c818a23169e12bd3c8587b6394c731",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "web.config",
+      "path": "/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "md5": "dc6dd6d8d1fc74e76c84b0b38dc6b1e3",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Compat.browser",
+      "path": "/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "md5": "0d831c1264b5b32a39fa347de368fe48",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "DefaultWsdlHelpGenerator.aspx",
+      "path": "/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "machine.config",
+      "path": "/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "md5": "32bf879734966ef6659d914a217691e0",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "settings.map",
+      "path": "/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "md5": "ba17ade8a8e3ee221377534c8136f617",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "web.config",
+      "path": "/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "md5": "d081581e16b06480a5aaef8cdfb305ab",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Compat.browser",
+      "path": "/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "md5": "0d831c1264b5b32a39fa347de368fe48",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "DefaultWsdlHelpGenerator.aspx",
+      "path": "/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "machine.config",
+      "path": "/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "md5": "25ff1ec49e3ac9285bd943cf036bd813",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "settings.map",
+      "path": "/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "md5": "ba17ade8a8e3ee221377534c8136f617",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "web.config",
+      "path": "/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "md5": "5075af18fe1d2b5f9555d5cc68029814",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "Compat.browser",
+      "path": "/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "md5": "0d831c1264b5b32a39fa347de368fe48",
+      "version": "0.1.5"
+    },
+    {
+      "filename": "config.xml",
+      "path": "/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "md5": "f34b330f20dce1bdcce9058fca287099",
+      "version": "0.1.5"
+    }
+  ]
+}
